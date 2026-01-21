@@ -1,3 +1,16 @@
+## In simple terms
+
+This project helps you use AI without losing control of your thinking.
+
+Instead of asking AI random questions and getting generic advice, you first write down:
+- what you believe (strategy),
+- who you are building for (context),
+- what you should avoid (rules).
+
+The AI is then allowed to answer **only** using what you wrote.
+If something is not defined, it refuses to guess.
+
+Think of it like giving AI your brain — but on your terms.
 # Private Marketing MCP (Local)
 
 A local, privacy-first Marketing MCP that grounds AI in real context, strategy, and decision rules.
