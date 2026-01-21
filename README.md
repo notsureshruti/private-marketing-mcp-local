@@ -11,6 +11,24 @@ The AI is then allowed to answer **only** using what you wrote.
 If something is not defined, it refuses to guess.
 
 Think of it like giving AI your brain — but on your terms.
+## Why this is useful
+
+Most people use AI like a brainstorming partner.
+That sounds helpful, but it often leads to:
+- inconsistent decisions,
+- changing opinions every day,
+- advice that sounds good but doesn’t fit your situation.
+
+This system is useful because it does the opposite.
+
+It helps you:
+- stay consistent with your own thinking,
+- avoid repeating bad decisions,
+- reduce mental overload,
+- use AI as a reasoning partner instead of a suggestion machine.
+
+This makes it useful not just for marketing, but for any role that involves frequent decisions.
+
 # Private Marketing MCP (Local)
 
 A local, privacy-first Marketing MCP that grounds AI in real context, strategy, and decision rules.
