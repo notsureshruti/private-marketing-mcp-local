@@ -28,6 +28,20 @@ It helps you:
 - use AI as a reasoning partner instead of a suggestion machine.
 
 This makes it useful not just for marketing, but for any role that involves frequent decisions.
+## Who this is for (and who it is not)
+
+This is for people who:
+- make frequent decisions,
+- care about consistency,
+- want AI to respect their thinking,
+- prefer clarity over constant new ideas.
+
+This is not for people who:
+- want instant answers without context,
+- expect AI to think for them,
+- are only looking for creative inspiration,
+- want “growth hacks” or shortcuts.
+
 
 # Private Marketing MCP (Local)
 
