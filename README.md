@@ -106,3 +106,33 @@ No data leaving your machine.
 
 A local, privacy-first Marketing MCP that grounds AI in real context, strategy, and decision rules
 <!-- updated -->
+## How to use this (non-technical)
+
+You don’t need to think of this as software.
+Think of it as a thinking system.
+
+1. First, write things down.
+   - Your strategy
+   - Your rules
+   - What you want to avoid
+   - Who or what you are making decisions for
+
+2. Treat those files as your source of truth.
+   - Update them when your thinking changes
+   - Don’t overwrite them impulsively
+
+3. When you use AI, you load this context first.
+   - The AI reads what you wrote
+   - It is not allowed to invent new ideas
+
+4. Ask questions you would normally debate in your head.
+   - “Is this a good idea?”
+   - “What am I missing?”
+   - “Should I do this now or later?”
+
+5. Use the answers to reflect, not blindly follow.
+   - You stay responsible for decisions
+   - AI helps you stay consistent, not impulsive
+
+If you stop using the system, nothing breaks.
+Your thinking is still safely stored as files.
