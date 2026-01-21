@@ -41,6 +41,29 @@ This is not for people who:
 - expect AI to think for them,
 - are only looking for creative inspiration,
 - want “growth hacks” or shortcuts.
+  ## A common AI mistake this avoids
+
+Most people use AI by asking:
+“What should I do?”
+
+This often leads to:
+- advice that changes every time,
+- ideas that sound smart but don’t fit,
+- decisions that don’t compound over time.
+
+This system flips that approach.
+
+Instead of asking AI to decide for you,  
+you first define how *you* think.
+
+AI is then used to:
+- apply your rules,
+- check consistency,
+- highlight gaps,
+- support decisions without taking control.
+
+This keeps you in charge of the thinking, not the tool.
+
 
 
 # Private Marketing MCP (Local)
